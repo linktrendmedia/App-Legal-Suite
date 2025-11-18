@@ -266,6 +266,62 @@ Means the publicly accessible webpage displaying real-time Service availability 
 
 ---
 
+### Automated Decision-Making
+
+Means any decision based solely on automated processing, including profiling, that produces legal effects or similarly significantly affects a Data Subject.
+
+**Used in:** DPA
+
+---
+
+### Biometric Data
+
+Means Personal Data resulting from specific technical processing relating to the physical, physiological, or behavioral characteristics of a natural person.
+
+**Used in:** DPA
+
+---
+
+### Children's Personal Data
+
+Means Personal Data relating to individuals under the age of thirteen (13) in the United States or under the age of sixteen (16) in the European Economic Area and United Kingdom.
+
+**Used in:** DPA
+
+---
+
+### Data Protection Officer (DPO)
+
+Means the individual designated to oversee data protection compliance.
+
+**Used in:** DPA
+
+---
+
+### Personal Data
+
+Means any information relating to an identified or identifiable natural person, as defined under Applicable Data Protection Laws.
+
+**Used in:** DPA, Privacy Policies
+
+---
+
+### Special Category Data
+
+Means Personal Data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, health data, or data concerning sex life or sexual orientation (GDPR Article 9).
+
+**Used in:** DPA
+
+---
+
+### Subprocessor
+
+Means any third party engaged by the Company to Process Personal Data on behalf of the Client.
+
+**Used in:** MSA, DPA
+
+---
+
 ## INTERPRETATION RULES
 
 The following interpretation rules apply across all agreements:
