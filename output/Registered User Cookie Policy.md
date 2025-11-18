@@ -28,18 +28,10 @@ Means all laws governing Cookies and tracking technologies, including:
 - **(iii)** UK Privacy and Electronic Communications Regulations (PECR);
 - **(iv)** UK GDPR and UK Data Protection Act 2018;
 - **(v)** California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA);
-- **(vi)** Virginia Consumer Data Protection Act (VCDPA);
-- **(vii)** Colorado Privacy Act (CPA);
-- **(viii)** Connecticut Data Privacy Act (CTDPA);
-- **(ix)** Utah Consumer Privacy Act (UCPA);
-- **(x)** Montana Consumer Data Privacy Act (MCDPA);
-- **(xi)** Oregon Consumer Privacy Act (OCPA);
-- **(xii)** Texas Data Privacy and Security Act (TDPSA);
-- **(xiii)** Delaware Personal Data Privacy Act (DPDPA);
-- **(xiv)** Nevada Revised Statutes Chapter 603A (NRS 603A);
-- **(xv)** Wyoming privacy requirements;
-- **(xvi)** Taiwan Personal Data Protection Act (PDPA) tracking transparency requirements;
-- **(xvii)** any other applicable laws specified in Schedule 1.
+- **(vi)** Applicable U.S. state consumer privacy laws with requirements materially similar to the California Consumer Privacy Act (CCPA/CPRA);
+- **(vii)** Nevada Revised Statutes Chapter 603A (NRS 603A);
+- **(viii)** Taiwan Personal Data Protection Act (PDPA) tracking transparency requirements;
+- **(ix)** any other applicable laws specified in Schedule 1.
 
 **(d) "Biometric Data"**  
 Has the meaning given in the Data Processing Addendum (DPA) and Registered User Privacy Policy.

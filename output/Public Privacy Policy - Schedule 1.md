@@ -248,14 +248,8 @@ The Company does not "sell" covered information within the meaning of Nevada NRS
 This Policy complies with the following US state privacy laws:
 
 **(a)** California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA)  
-**(b)** Virginia Consumer Data Protection Act (VCDPA)  
-**(c)** Colorado Privacy Act (CPA)  
-**(d)** Connecticut Data Privacy Act (CTDPA)  
-**(e)** Utah Consumer Privacy Act (UCPA)  
-**(f)** Montana Consumer Data Privacy Act (MCDPA)  
-**(g)** Oregon Consumer Privacy Act (OCPA)  
-**(h)** Texas Data Privacy and Security Act (TDPSA)  
-**(i)** Delaware Personal Data Privacy Act (DPDPA)
+**(b)** Applicable U.S. state consumer privacy laws with requirements materially similar to the California Consumer Privacy Act (CCPA/CPRA)  
+**(c)** Nevada NRS 603A
 
 **Must align with MSA Section 12.1, DPA Section 1.1(a), EULA Section 1.1(h), B2C ToS Schedule 1, and Website Terms Schedule 1.**
 

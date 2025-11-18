@@ -1,0 +1,60 @@
+# App Legal Suite – Research & Market Model Rules
+
+## Research Hierarchy
+
+When performing external research for comparable agreements, use this priority order:
+
+1. SEC/EDGAR filings for similar agreement types.
+2. Top-tier technology / corporate law firms (e.g., well-known US/UK firms with SaaS / tech templates or publications).
+3. Recognized SaaS / tech contract templates from reputable publishers.
+4. Academic or doctrinal sources where directly relevant.
+5. General open web results (lowest priority; treat with caution).
+
+## Internal Research Sources
+
+- Treat all documents in `/market-research` as internal research sources, including:
+  - Template General Agreement
+  - Commission Agreement
+  - Convertible Loan Agreement
+  - Executive Agreement
+  - Shareholders’ Agreement
+  - Software Development / Hosting / Licensing / Maintenance templates
+  - SPA Template
+- These are **high-quality references**, but NOT binding standards:
+  - You may adopt or adapt their clauses if they are strong and market-aligned.
+  - You are free to override them based on better external precedents or suite-level consistency.
+
+## Market Clause Model
+
+- For each major agreement type in `/agreements`, build or refine a **Market Clause Model** that covers:
+  - Mandatory clauses.
+  - Common optional/protective clauses.
+  - Clauses that are rare or aggressive.
+- Store structured representations (e.g., headings, summaries, notes) in:
+  - `/clause-library`
+  - `/cross-agreement-references` (where appropriate)
+
+## Clause Necessity Decisions
+
+- Use the Market Clause Model to decide for each agreement:
+  - Which clauses are mandatory.
+  - Which clauses are recommended.
+  - Which clauses are optional.
+  - Which clauses are generally unnecessary.
+- Remove unnecessary clauses from the agreement text and record them as “Suggested Optional Clauses” in the commit message, not in the document.
+
+## Jurisdiction & Compliance
+
+- Default governing law and jurisdiction baseline is US (Nevada/Wyoming) for commercial and corporate agreements.
+- Where the agreement’s **subject matter** requires it (e.g., privacy/data processing, cross-border data transfers):
+  - Incorporate essential GDPR/UK GDPR compliance concepts and language as appropriate.
+- Do not automatically insert EU/UK consumer law provisions into every agreement:
+  - Only do so when the nature of the agreement (e.g., direct B2C consumer terms applicable to EU/UK residents) makes it necessary or strongly advisable.
+
+## Role of the Template Suite
+
+- Always remember: these are **template agreements** for a starter kit used repeatedly across many apps.
+- Your research and drafting should:
+  - Keep the templates as general and reusable as possible.
+  - Allow app-specific customization to be handled later in schedules and placeholders.
+  - Avoid embedding project-specific facts or commercial terms.

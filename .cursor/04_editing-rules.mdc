@@ -1,0 +1,54 @@
+# App Legal Suite – Editing & Questioning Rules
+
+## Questioning Before Editing
+
+- Before you perform any edits to an agreement, you must:
+  1. Read the relevant agreement and its schedules.
+  2. Read relevant internal research in `/market-research`.
+  3. Perform external research (as per research rules) for that agreement type.
+  4. THEN ask clarifying questions, **one at a time**, until you are at least 95% confident about:
+     - The nature and purpose of the agreement.
+     - The intended party dynamics (e.g., B2B SaaS, enterprise, consumer).
+     - The desired risk profile (pro-supplier/pro-customer/balanced).
+     - Jurisdictional focus for this agreement.
+- You must not begin editing until this clarification loop is complete.
+
+## Style of Questions
+
+- Ask focused, concrete questions.
+- Ask *one question per turn* (no long lists).
+- Only ask questions that materially affect structure, clause selection, or risk allocation.
+- If the user indicates that no further questions are desired, proceed with best-effort assumptions based on the research and existing drafting.
+
+## Editing Principles
+
+- Maintain the user’s commercial intent wherever it is reasonably clear.
+- Clean up:
+  - Ambiguity
+  - Redundancy
+  - Poorly structured clauses
+  - Broken cross-references
+- Do not downgrade protection for the company unless:
+  - The existing clause is clearly extreme or impractical compared to market norms.
+  - The user explicitly asks for a more balanced or customer-friendly posture.
+
+## Branch Discipline
+
+- All changes must be made on a feature branch: `improvement/<agreement-name>`.
+- Do not touch `main` directly.
+- Break large changes into logical commits where practical (e.g., one commit for definitions cleanup, one for liability/indemnity, one for dispute resolution overhaul).
+
+## Commit Messages
+
+- Commit messages must:
+  - Briefly describe what changed (e.g., “Harmonized IP and confidentiality clauses with Market Clause Model for SaaS agreements.”).
+  - Explain the reasoning where it is not obvious (“Removed overlapping warranties; moved them to Suggested Optional Clauses; aligned limitation of liability across suite.”).
+  - List any clauses that were removed and placed into “Suggested Optional Clauses”.
+
+## Output Cleanliness
+
+- The edited agreement must be fully usable as a standalone template:
+  - No comments.
+  - No drafting notes.
+  - No inline explanations.
+- Use placeholders (e.g., “[●]”) only where actual data will be added later.

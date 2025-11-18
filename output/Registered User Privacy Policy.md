@@ -19,20 +19,14 @@ Means all applicable data protection and privacy laws, including but not limited
 
 - **(i)** EU GDPR (Regulation (EU) 2016/679);
 - **(ii)** UK GDPR and UK Data Protection Act 2018;
-- **(iii)** EU ePrivacy Directive;
-- **(iv)** California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA);
-- **(v)** Virginia Consumer Data Protection Act (VCDPA);
-- **(vi)** Colorado Privacy Act (CPA);
-- **(vii)** Connecticut Data Privacy Act (CTDPA);
-- **(viii)** Utah Consumer Privacy Act (UCPA);
-- **(ix)** Montana Consumer Data Privacy Act (MCDPA);
-- **(x)** Oregon Consumer Privacy Act (OCPA);
-- **(xi)** Texas Data Privacy and Security Act (TDPSA);
-- **(xii)** Delaware Personal Data Privacy Act (DPDPA);
-- **(xiii)** Nevada Revised Statutes Chapter 603A (NRS 603A);
-- **(xiv)** Wyoming privacy requirements;
-- **(xv)** Taiwan Personal Data Protection Act (PDPA);
-- **(xvi)** any other applicable privacy laws specified in Schedule 1.
+- **(iii)** UK Privacy and Electronic Communications Regulations (PECR);
+- **(iv)** EU ePrivacy Directive;
+- **(v)** California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA);
+- **(vi)** Applicable U.S. state consumer privacy laws with requirements materially similar to the California Consumer Privacy Act (CCPA/CPRA);
+- **(vii)** Nevada Revised Statutes Chapter 603A (NRS 603A);
+- **(viii)** Children's Online Privacy Protection Act (COPPA);
+- **(ix)** Taiwan Personal Data Protection Act (PDPA);
+- **(x)** any other applicable privacy laws specified in Schedule 1.
 
 **(b) "Account"**  
 Means the Registered User's profile, credentials, settings, and associated data.

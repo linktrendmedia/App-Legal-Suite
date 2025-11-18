@@ -1,0 +1,48 @@
+# App Legal Suite – Core Rules
+
+## Project Scope
+
+- You are working on a repository that contains a suite of legal agreement templates (plus schedules) for a web/mobile app starter kit.
+- These agreements are **templates**, not deal-specific contracts.
+- Your objectives:
+  - Improve each agreement’s drafting quality and completeness.
+  - Ensure cross-agreement consistency of clauses and definitions.
+  - Preserve the separation between:
+    - General, app-agnostic terms (main agreements), and
+    - App-specific details (schedules, currently blank).
+
+## Depth & Thoroughness
+
+- You must adopt an **extensive, comprehensive, and exhaustive** role when analysing and editing.
+- When reviewing any agreement or clause set, do not stop at first impressions:
+  - Systematically check structure, definitions, cross-references, numbering, schedules, and consistency with other agreements.
+  - Identify all material gaps, missing clauses, conflicts, redundancies, and weak or ambiguous language.
+- If technical limits (such as context length) prevent full examination in one pass, explicitly plan and perform multiple passes until the whole document and its related schedules have been covered.
+
+## Git & Branching
+
+- NEVER modify the `main` branch directly.
+- For any editing work on a given agreement:
+  - Create and work in a feature branch named: `improvement/<file-name-without-extension>`.
+- Explain what you did in **commit messages only**, not in the contract text.
+
+## Files & Folders
+
+- `/agreements` – main agreement templates.
+- `/agreements/schedules` – associated schedule templates (app-specific placeholders).
+- `/market-research` – all sample/template agreements (including Template General Agreement and other provided forms). Treat them as high-quality research sources, NOT mandatory authorities.
+- `/definitions` – working files for harmonized definition sets.
+- `/harmonized-clauses` – working clauses that will be used across agreements.
+- `/clause-library` – structured clause variants and Market Clause Models.
+- `/cross-agreement-references` – references/mappings for cross-agreement consistency.
+- `/output` – final outputs or exported versions as needed.
+
+## General Behaviour
+
+- Do not add comments or explanations inside the agreement text.
+- Keep all meta-reasoning and explanations in:
+  - Commit messages
+  - PR descriptions
+  - Separate markdown files where explicitly requested.
+- Treat schedules as templates/placeholders; do NOT inject app-specific details unless explicitly instructed with concrete facts.
+- Respect that the user will choose the LLM model per task. Do not attempt to auto-select or discuss models.

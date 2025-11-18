@@ -29,13 +29,13 @@ This Schedule forms an integral part of the Master Service Agreement (MSA). Capi
 
 This Agreement is governed by the laws of:  
 [INSERT GOVERNING LAW]  
-(e.g., "State of Nevada, United States" or "State of Wyoming, United States")
+(e.g., "State of Nevada, United States")
 
 ### 2.2 Jurisdiction
 
 Disputes shall be resolved exclusively in the courts of:  
 [INSERT JURISDICTION]  
-(e.g., "Clark County, Nevada" or "Laramie County, Wyoming")
+(e.g., "Clark County, Nevada")
 
 ---
 
@@ -211,7 +211,7 @@ The Services may not be accessed or used from the following territories:
 (e.g., "legal@company.com")
 
 **Physical Address:** [INSERT FULL ADDRESS]  
-(e.g., "123 Innovation Drive, Cheyenne, Wyoming 82001, United States")
+(e.g., "123 Innovation Drive, Reno, Nevada 89501, United States")
 
 ### 10.2 Client Notices
 
@@ -230,7 +230,7 @@ The Client shall provide notice details in the executed Order Form, including:
 For purposes of this Agreement, "Business Day" means any day other than Saturday, Sunday, or a public holiday in:
 
 [INSERT JURISDICTION]  
-(e.g., "the State of Nevada, United States" or "the State of Wyoming, United States")
+(e.g., "the State of Nevada, United States")
 
 ---
 

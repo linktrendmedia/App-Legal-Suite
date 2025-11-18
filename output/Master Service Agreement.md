@@ -511,21 +511,13 @@ The parties shall comply with all Applicable Data Protection Laws, including:
 
 **(c)** CCPA/CPRA (California Consumer Privacy Act / California Privacy Rights Act);
 
-**(d)** VCDPA (Virginia Consumer Data Protection Act);
+**(d)** Applicable U.S. state consumer privacy laws with requirements materially similar to the California Consumer Privacy Act (CCPA/CPRA);
 
-**(e)** CPA (Colorado Privacy Act);
+**(e)** Nevada NRS 603A;
 
-**(f)** CTDPA (Connecticut Data Privacy Act);
+**(f)** Taiwan PDPA;
 
-**(g)** UCPA (Utah Consumer Privacy Act);
-
-**(h)** Nevada NRS 603A;
-
-**(i)** other US state privacy laws;
-
-**(j)** Taiwan PDPA;
-
-**(k)** any additional laws listed in Schedule 1.
+**(g)** any additional laws listed in Schedule 1.
 
 ### 12.2 Data Processing
 
