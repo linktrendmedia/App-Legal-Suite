@@ -1,6 +1,6 @@
 # B2C TERMS OF SERVICE
 
-**Last Updated:** [INSERT DATE]
+**Last Updated:** November 18, 2025
 
 ---
 
@@ -69,7 +69,7 @@ Means the User's selection of a Subscription or purchase of Services.
 Has the meaning given in the Privacy Policy and Data Processing Addendum (DPA).
 
 **(s) "Privacy Policy"**  
-Means the Registered User Privacy Policy governing the Processing of User Personal Data, available at [INSERT URL].
+Means the Registered User Privacy Policy governing the Processing of User Personal Data, available at [HYPERLINK: INSERT URL].
 
 **(t) "Renewal Term"**  
 Means the period for which a Subscription automatically renews.
@@ -388,7 +388,7 @@ The Company reserves the right to remove or disable access to User Content that 
 
 ### 12.1 Incorporation
 
-The Acceptable Use Policy (AUP) is incorporated into this Agreement by reference and is available at [INSERT URL] or within the Services.
+The Acceptable Use Policy (AUP) is incorporated into this Agreement by reference and is available at [HYPERLINK: INSERT URL] or within the Services.
 
 ### 12.2 Prohibited Activities
 
@@ -426,7 +426,7 @@ Violations of the Acceptable Use Policy may result in suspension or termination 
 
 ### 13.1 Privacy Policy
 
-**(a)** The Company's collection, use, and protection of Personal Data is governed by the Privacy Policy, available at [INSERT URL].
+**(a)** The Company's collection, use, and protection of Personal Data is governed by the Privacy Policy, available at [HYPERLINK: INSERT URL].
 
 **(b)** By using the Services, the User acknowledges that they have read and understood the Privacy Policy.
 
@@ -448,13 +448,13 @@ The Company shall comply with all Applicable Data Protection Laws, including tho
 - **(vi)** Right to object to processing;
 - **(vii)** Right to withdraw consent (where processing is based on consent).
 
-**(b)** To exercise these rights, Users may contact the Company at [INSERT PRIVACY EMAIL] or use the in-app data management tools (if available).
+**(b)** To exercise these rights, Users may contact the Company at privacy@linktrend.media or use the in-app data management tools (if available).
 
 ### 13.4 Data Deletion
 
 **(a)** Users may request deletion of Personal Data at any time by:
 
-- **(i)** submitting a deletion request to [INSERT PRIVACY EMAIL]; or
+- **(i)** submitting a deletion request to privacy@linktrend.media; or
 - **(ii)** using the in-app account deletion feature (if available).
 
 **(b)** The Company shall delete Personal Data within thirty (30) days of receiving a valid deletion request, except where retention is required by Applicable Law.
@@ -813,10 +813,10 @@ No failure or delay by the Company in exercising any right, power, or remedy und
 
 For questions, concerns, support requests, or notices regarding this Agreement, please contact:
 
-**Company Name:** [INSERT COMPANY NAME]  
-**Support Email:** [INSERT SUPPORT EMAIL]  
-**Privacy Inquiries:** [INSERT PRIVACY EMAIL]  
-**Address:** [INSERT COMPANY ADDRESS]
+**Company Name:** LiNKtrend, LLC  
+**Support Email:** support@linktrend.media  
+**Privacy Inquiries:** privacy@linktrend.media  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130
 
 ---
 

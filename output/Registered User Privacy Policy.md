@@ -1,6 +1,6 @@
 # REGISTERED USER PRIVACY POLICY
 
-**Last Updated:** [INSERT DATE]
+**Last Updated:** November 18, 2025
 
 ---
 
@@ -369,7 +369,7 @@ If Children's Personal Data is collected unintentionally, the Company shall:
 
 ### 9.1 Cookie Usage
 
-Cookies in logged-in areas are governed by the Registered User Cookie Policy, which is incorporated by reference and available at [INSERT URL].
+Cookies in logged-in areas are governed by the Registered User Cookie Policy, which is incorporated by reference and available at [HYPERLINK: INSERT URL].
 
 ### 9.2 Cookie Categories
 
@@ -451,7 +451,7 @@ Retained based on developer configuration and specified in Schedule 1.
 
 **(a)** Users may request deletion at any time by:
 
-- **(i)** submitting a deletion request to [INSERT PRIVACY EMAIL]; or
+- **(i)** submitting a deletion request to privacy@linktrend.media; or
 - **(ii)** using the in-app account deletion feature (if available).
 
 **(b)** The Company shall delete Personal Data within thirty (30) days of receiving a valid deletion request, except where retention is required by Applicable Law.
@@ -638,10 +638,10 @@ Users in Taiwan have the right to:
 
 Users may submit rights requests via:
 
-**(a)** Email to [INSERT PRIVACY EMAIL];
+**(a)** Email to privacy@linktrend.media;
 **(b)** In-app interface (Account Settings > Privacy > Data Rights);
 **(c)** Support ticket;
-**(d)** Data Protection Officer at [INSERT DPO EMAIL].
+**(d)** Data Protection Officer at privacy@linktrend.media.
 
 ### 15.2 Verification
 
@@ -731,7 +731,7 @@ The Company shall use commercially reasonable efforts to ensure this Policy and 
 
 ### 18.2 Accessibility Contact
 
-Users may report accessibility issues at [INSERT ACCESSIBILITY EMAIL].
+Users may report accessibility issues at support@linktrend.media.
 
 ---
 
@@ -765,30 +765,34 @@ Changes take effect on the date listed in Schedule 1 unless otherwise specified.
 
 For general privacy inquiries and rights requests, please contact:
 
-**Company Name:** [INSERT COMPANY NAME]  
-**Address:** [INSERT COMPANY ADDRESS]  
-**Email:** [INSERT PRIVACY EMAIL]  
-**Phone:** [INSERT PHONE NUMBER]
+**Company Name:** LiNKtrend, LLC  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130  
+**Email:** privacy@linktrend.media  
+**Support:** support@linktrend.media
 
 ### 20.2 Data Protection Officer
 
 For data protection inquiries, please contact the Data Protection Officer:
 
-**DPO Name:** [INSERT DPO NAME]  
-**DPO Email:** [INSERT DPO EMAIL]  
-**DPO Address:** [INSERT DPO ADDRESS]
+**DPO Name:** Privacy Team  
+**DPO Email:** privacy@linktrend.media  
+**DPO Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130
 
 ### 20.3 EU Representative (if applicable)
 
 If the Company is not established in the EU but processes Personal Data of EU residents, the EU representative contact information is:
 
-[INSERT EU REPRESENTATIVE DETAILS]
+**Name:** Privacy Team  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130  
+**Email:** privacy@linktrend.media
 
 ### 20.4 UK Representative (if applicable)
 
 If the Company is not established in the UK but processes Personal Data of UK residents, the UK representative contact information is:
 
-[INSERT UK REPRESENTATIVE DETAILS]
+**Name:** Privacy Team  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130  
+**Email:** privacy@linktrend.media
 
 ---
 

@@ -1,6 +1,6 @@
 # WEBSITE TERMS OF USE
 
-**Last Updated:** [INSERT DATE]
+**Last Updated:** November 18, 2025
 
 ---
 
@@ -45,7 +45,7 @@ Means any non-public information disclosed by the Company to a Visitor, whether 
 Means all text, images, photographs, videos, audio, graphics, illustrations, logos, trademarks, software, data, documentation, and other materials available on or through the Site.
 
 **(k) "Cookie Policy"**  
-Means the Public Cookie Policy governing Cookies used on the Site, available at [INSERT URL].
+Means the Public Cookie Policy governing Cookies used on the Site, available at [HYPERLINK: INSERT URL].
 
 **(l) "Force Majeure Event"**  
 Means any event beyond the reasonable control of the Company, including acts of God, natural disasters, pandemics, epidemics, government orders or restrictions, labor disputes, supply chain disruptions, telecommunications failures, power outages, cloud provider outages, or failures of third-party infrastructure providers.
@@ -60,10 +60,10 @@ Means the address designated in Schedule 1 for formal legal notices.
 Has the meaning given in the Privacy Policy and Data Processing Addendum (DPA).
 
 **(p) "Privacy Policy"**  
-Means the Public Privacy Policy governing the collection and processing of Visitor Data, available at [INSERT URL].
+Means the Public Privacy Policy governing the collection and processing of Visitor Data, available at [HYPERLINK: INSERT URL].
 
 **(q) "Site"**  
-Means the Company's public-facing website located at [INSERT URL] and all associated subdomains, pages, and features.
+Means the Company's public-facing website located at [HYPERLINK: INSERT URL] and all associated subdomains, pages, and features.
 
 **(r) "Third-Party Links"**  
 Means any links or integrations that direct a Visitor to external services, websites, or applications not controlled by the Company.
@@ -210,7 +210,7 @@ Visitors shall not engage in any activities that:
 
 ### 5.2 Acceptable Use Policy
 
-The Acceptable Use Policy (AUP) is incorporated into this Agreement by reference and is available at [INSERT URL] or within the Services. Visitors shall comply with all prohibited conduct and content restrictions set forth in the Acceptable Use Policy.
+The Acceptable Use Policy (AUP) is incorporated into this Agreement by reference and is available at [HYPERLINK: INSERT URL] or within the Services. Visitors shall comply with all prohibited conduct and content restrictions set forth in the Acceptable Use Policy.
 
 ---
 
@@ -376,7 +376,7 @@ Notices are deemed received:
 
 **(a)** Visitor Data is collected, processed, and stored in accordance with the Company's Public Privacy Policy, which is incorporated by reference into this Agreement.
 
-**(b)** The Privacy Policy is available at [INSERT URL].
+**(b)** The Privacy Policy is available at [HYPERLINK: INSERT URL].
 
 **(c)** By using the Site, the Visitor acknowledges that they have read and understood the Privacy Policy.
 
@@ -384,7 +384,7 @@ Notices are deemed received:
 
 **(a)** The Site uses Cookies in accordance with the Public Cookie Policy, which is incorporated by reference.
 
-**(b)** The Cookie Policy is available at [INSERT URL].
+**(b)** The Cookie Policy is available at [HYPERLINK: INSERT URL].
 
 ### 12.3 Cookie Consent
 
@@ -408,11 +408,11 @@ The Company shall comply with all Applicable Data Protection Laws, including tho
 - **(vi)** Right to object to processing;
 - **(vii)** Right to withdraw consent (where processing is based on consent).
 
-**(b)** To exercise these rights, Visitors may contact the Company at [INSERT PRIVACY EMAIL].
+**(b)** To exercise these rights, Visitors may contact the Company at privacy@linktrend.media.
 
 ### 12.6 Data Deletion
 
-**(a)** Visitors may request deletion of Personal Data at any time by submitting a deletion request to [INSERT PRIVACY EMAIL].
+**(a)** Visitors may request deletion of Personal Data at any time by submitting a deletion request to privacy@linktrend.media.
 
 **(b)** The Company shall delete Personal Data within thirty (30) days of receiving a valid deletion request, except where retention is required by Applicable Law.
 
@@ -538,7 +538,7 @@ The Company shall use commercially reasonable efforts to ensure the Site conform
 
 ### 19.2 Accessibility Contact
 
-Visitors may report accessibility issues at [INSERT ACCESSIBILITY EMAIL].
+Visitors may report accessibility issues at support@linktrend.media.
 
 ---
 
@@ -680,12 +680,12 @@ This Agreement is effective on the date the Visitor first accesses or uses the S
 
 For questions, concerns, support requests, or notices regarding this Agreement, please contact:
 
-**Company Name:** [INSERT COMPANY NAME]  
-**Support Email:** [INSERT SUPPORT EMAIL]  
-**Privacy Inquiries:** [INSERT PRIVACY EMAIL]  
-**DMCA Agent:** [INSERT DMCA AGENT CONTACT]  
-**Accessibility Contact:** [INSERT ACCESSIBILITY EMAIL]  
-**Address:** [INSERT COMPANY ADDRESS]
+**Company Name:** LiNKtrend, LLC  
+**Support Email:** support@linktrend.media  
+**Privacy Inquiries:** privacy@linktrend.media  
+**DMCA Agent:** legal@linktrend.media  
+**Accessibility Contact:** support@linktrend.media  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130
 
 ---
 

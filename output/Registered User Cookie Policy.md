@@ -1,6 +1,6 @@
 # REGISTERED USER COOKIE POLICY
 
-**Last Updated:** [INSERT DATE]
+**Last Updated:** November 18, 2025
 
 ---
 
@@ -157,7 +157,7 @@ May include:
 - PostHog;
 - Amplitude;
 - Mixpanel;
-- [INSERT OTHER ANALYTICS TOOLS].
+- [INSERT OTHER ANALYTICS TOOLS IF APPLICABLE].
 
 **Collected Data Types:**
 - Page views;
@@ -585,7 +585,7 @@ If a breach is likely to result in a high risk to the rights and freedoms of Dat
 
 ### 17.2 Accessibility Contact
 
-Users may report accessibility issues at [INSERT ACCESSIBILITY EMAIL].
+Users may report accessibility issues at support@linktrend.media.
 
 ---
 
@@ -615,10 +615,10 @@ If material changes affect consent requirements, the Company may require Users t
 
 For questions or concerns about this Cookie Policy, Users may contact:
 
-**Company Name:** [INSERT COMPANY NAME]  
-**Privacy Email:** [INSERT PRIVACY EMAIL]  
-**DPO Email:** [INSERT DPO EMAIL]  
-**Address:** [INSERT COMPANY ADDRESS]
+**Company Name:** LiNKtrend, LLC  
+**Privacy Email:** privacy@linktrend.media  
+**DPO Email:** privacy@linktrend.media  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130
 
 ---
 

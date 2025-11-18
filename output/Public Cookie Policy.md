@@ -1,6 +1,6 @@
 # PUBLIC COOKIE POLICY
 
-**Last Updated:** [INSERT DATE]
+**Last Updated:** November 18, 2025
 
 ---
 
@@ -304,7 +304,7 @@ Depending on the types of Cookies enabled by the Visitor, the following categori
 
 ### 10.2 Link to Privacy Policy
 
-All Processing of Personal Data collected via Cookies is governed by the Company's Public Privacy Policy, available at [INSERT URL].
+All Processing of Personal Data collected via Cookies is governed by the Company's Public Privacy Policy, available at [HYPERLINK: INSERT URL].
 
 ---
 
@@ -362,7 +362,7 @@ The Company uses appropriate safeguards such as:
 
 ### 14.1 Deletion Timeline
 
-**(a)** Visitors may request deletion of Personal Data collected via Cookies at any time by contacting [INSERT PRIVACY EMAIL].
+**(a)** Visitors may request deletion of Personal Data collected via Cookies at any time by contacting privacy@linktrend.media.
 
 **(b)** The Company shall delete such data within thirty (30) days of receiving a valid deletion request.
 
@@ -410,7 +410,7 @@ If a breach is likely to result in a high risk to the rights and freedoms of Dat
 
 ### 16.2 Accessibility Contact
 
-Visitors may report accessibility issues at [INSERT ACCESSIBILITY EMAIL].
+Visitors may report accessibility issues at support@linktrend.media.
 
 ---
 
@@ -436,10 +436,10 @@ If material changes affect consent requirements, the Company may require Visitor
 
 For questions or concerns about this Cookie Policy, Visitors may contact the Company using the information provided in Schedule 1:
 
-**Company Name:** [INSERT COMPANY NAME]  
-**Privacy Email:** [INSERT PRIVACY EMAIL]  
-**DPO Email:** [INSERT DPO EMAIL] (if applicable)  
-**Address:** [INSERT COMPANY ADDRESS]
+**Company Name:** LiNKtrend, LLC  
+**Privacy Email:** privacy@linktrend.media  
+**DPO Email:** privacy@linktrend.media (if applicable)  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130
 
 ---
 

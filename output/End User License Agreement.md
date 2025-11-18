@@ -1,6 +1,6 @@
 # END USER LICENSE AGREEMENT
 
-**Last Updated:** [INSERT DATE]
+**Last Updated:** November 18, 2025
 
 ---
 
@@ -60,7 +60,7 @@ Means third-party software licensed under open-source licenses that are included
 Has the meaning given in the Data Processing Addendum (DPA) and the Privacy Policy.
 
 **(p) "Privacy Policy"**  
-Means the Company's privacy policy, available at [INSERT URL], which describes how the Company collects, uses, and protects Personal Data.
+Means the Company's privacy policy, available at [HYPERLINK: INSERT URL], which describes how the Company collects, uses, and protects Personal Data.
 
 **(q) "Prohibited Conduct"**  
 Means any action restricted under Section 3 of this EULA or the Acceptable Use Policy.
@@ -238,7 +238,7 @@ The Application may include Open-Source Components licensed under their respecti
 
 **(a)** The Company shall provide a list of all Open-Source Components and their applicable licenses upon request or in the "Open Source Notices" or "Legal" section within the Application.
 
-**(b)** Users may request a copy of the open-source licenses by contacting the Company at [INSERT EMAIL].
+**(b)** Users may request a copy of the open-source licenses by contacting the Company at support@linktrend.media.
 
 ### 6.3 Conflict
 
@@ -318,7 +318,7 @@ The Application may integrate with, rely on, or provide access to Third-Party Se
 
 ### 9.1 Privacy Policy
 
-**(a)** The Company's collection, use, and protection of Personal Data is governed by the Privacy Policy, available at [INSERT URL].
+**(a)** The Company's collection, use, and protection of Personal Data is governed by the Privacy Policy, available at [HYPERLINK: INSERT URL].
 
 **(b)** By using the Application, the User acknowledges that they have read and understood the Privacy Policy.
 
@@ -342,13 +342,13 @@ The Application may integrate with, rely on, or provide access to Third-Party Se
 - **(vi)** Right to object to processing;
 - **(vii)** Right to withdraw consent (where processing is based on consent).
 
-**(b)** To exercise these rights, the User may contact the Company at [INSERT PRIVACY EMAIL] or use the in-app data management tools (if available).
+**(b)** To exercise these rights, the User may contact the Company at privacy@linktrend.media or use the in-app data management tools (if available).
 
 ### 9.4 Data Deletion
 
 **(a)** The User may request deletion of Personal Data at any time by:
 
-- **(i)** submitting a deletion request to [INSERT PRIVACY EMAIL]; or
+- **(i)** submitting a deletion request to privacy@linktrend.media; or
 - **(ii)** using the in-app account deletion feature (if available).
 
 **(b)** The Company shall delete Personal Data within thirty (30) days of receiving a valid deletion request, except where retention is required by Applicable Law.
@@ -712,7 +712,7 @@ The Company shall use commercially reasonable efforts to ensure the Application 
 
 ### 20.2 Accessibility Feedback
 
-Users may report accessibility issues or request accessibility accommodations by contacting [INSERT ACCESSIBILITY EMAIL].
+Users may report accessibility issues or request accessibility accommodations by contacting support@linktrend.media.
 
 ---
 
@@ -800,11 +800,11 @@ Any attempted assignment in violation of this Section 26 shall be void. This EUL
 
 For questions, concerns, support requests, or notices regarding this EULA, please contact:
 
-**Company Name:** [INSERT COMPANY NAME]  
-**Email:** [INSERT SUPPORT EMAIL]  
-**Privacy Inquiries:** [INSERT PRIVACY EMAIL]  
-**Accessibility Inquiries:** [INSERT ACCESSIBILITY EMAIL]  
-**Address:** [INSERT COMPANY ADDRESS]
+**Company Name:** LiNKtrend, LLC  
+**Email:** support@linktrend.media  
+**Privacy Inquiries:** privacy@linktrend.media  
+**Accessibility Inquiries:** support@linktrend.media  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130
 
 ---
 

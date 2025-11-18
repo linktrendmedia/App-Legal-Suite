@@ -1,6 +1,6 @@
 # ACCEPTABLE USE POLICY
 
-**Last Updated:** [INSERT DATE]
+**Last Updated:** November 18, 2025
 
 ---
 
@@ -319,7 +319,7 @@ The Company shall not be liable for any damages, losses, or consequences resulti
 
 Users may report AUP violations, security vulnerabilities, abusive behavior, harmful content, or illegal activities to:
 
-**Email:** [INSERT ABUSE/SECURITY EMAIL]  
+**Email:** legal@linktrend.media  
 **Subject Line:** "AUP Violation Report" or "Security Vulnerability Report"
 
 ### 9.2 Information to Include
@@ -360,7 +360,7 @@ The Company encourages responsible disclosure of security vulnerabilities. Secur
 
 Security researchers must:
 
-**(a)** Report vulnerabilities privately to the Company at [INSERT SECURITY EMAIL] before public disclosure;
+**(a)** Report vulnerabilities privately to the Company at legal@linktrend.media before public disclosure;
 
 **(b)** Provide the Company with a reasonable period (at least ninety (90) days) to address the vulnerability before public disclosure;
 
@@ -474,8 +474,8 @@ This AUP, together with the applicable agreement (MSA, EULA, or Terms of Service
 
 For questions, concerns, or reports regarding this AUP, please contact:
 
-**Email:** [INSERT ABUSE/COMPLIANCE EMAIL]  
-**Address:** [INSERT COMPANY ADDRESS]
+**Email:** legal@linktrend.media  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130
 
 ---
 

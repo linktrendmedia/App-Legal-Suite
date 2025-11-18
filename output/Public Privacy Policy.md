@@ -1,6 +1,6 @@
 # PUBLIC PRIVACY POLICY
 
-**Last Updated:** [INSERT DATE]
+**Last Updated:** November 18, 2025
 
 ---
 
@@ -433,7 +433,7 @@ To exercise any of the above rights, please contact us using the information in 
 
 **(a)** The Site uses Cookies in accordance with the Public Cookie Policy, which is incorporated by reference.
 
-**(b)** The Cookie Policy is available at [INSERT URL] and provides detailed information about the types of Cookies used, their purposes, and how to manage Cookie preferences.
+**(b)** The Cookie Policy is available at [HYPERLINK: INSERT URL] and provides detailed information about the types of Cookies used, their purposes, and how to manage Cookie preferences.
 
 ### 10.2 Cookie Consent
 
@@ -531,7 +531,7 @@ Visitors may exercise applicable rights by submitting a request to:
 
 **(b)** Data Protection Officer contact details in Schedule 1;
 
-**(c)** Online request form (if available): [INSERT URL].
+**(c)** Online request form (if available): [HYPERLINK: INSERT URL].
 
 ### 14.2 Verification
 
@@ -623,7 +623,7 @@ The Company shall use commercially reasonable efforts to ensure this Policy and 
 
 ### 18.2 Accessibility Contact
 
-Visitors may report accessibility issues at [INSERT ACCESSIBILITY EMAIL].
+Visitors may report accessibility issues at support@linktrend.media.
 
 ---
 
@@ -655,30 +655,34 @@ Continued access to the Site after changes become effective constitutes acceptan
 
 For questions, concerns, or requests relating to this Policy, please contact the Data Controller:
 
-**Company Name:** [INSERT COMPANY NAME]  
-**Address:** [INSERT COMPANY ADDRESS]  
-**Email:** [INSERT PRIVACY EMAIL]  
-**Phone:** [INSERT PHONE NUMBER]
+**Company Name:** LiNKtrend, LLC  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130  
+**Email:** privacy@linktrend.media  
+**Support:** support@linktrend.media
 
 ### 20.2 Data Protection Officer
 
 For data protection inquiries, please contact the Data Protection Officer:
 
-**DPO Name:** [INSERT DPO NAME]  
-**DPO Email:** [INSERT DPO EMAIL]  
-**DPO Address:** [INSERT DPO ADDRESS]
+**DPO Name:** Privacy Team  
+**DPO Email:** privacy@linktrend.media  
+**DPO Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130
 
 ### 20.3 EU Representative (if applicable)
 
 If the Company is not established in the EU but processes Personal Data of EU residents, the EU representative contact information is:
 
-[INSERT EU REPRESENTATIVE DETAILS]
+**Name:** Privacy Team  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130  
+**Email:** privacy@linktrend.media
 
 ### 20.4 UK Representative (if applicable)
 
 If the Company is not established in the UK but processes Personal Data of UK residents, the UK representative contact information is:
 
-[INSERT UK REPRESENTATIVE DETAILS]
+**Name:** Privacy Team  
+**Address:** 175 SW 7th St Ste 1517, Miami, Florida 33130  
+**Email:** privacy@linktrend.media
 
 ---
 
