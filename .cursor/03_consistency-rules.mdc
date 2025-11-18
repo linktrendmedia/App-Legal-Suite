@@ -1,0 +1,59 @@
+# App Legal Suite – Consistency & Harmonization Rules
+
+## Cross-Agreement Consistency
+
+- Aim for consistent treatment across all agreements of:
+  - Intellectual Property
+  - Confidentiality
+  - Data Protection
+  - Limitation of Liability
+  - Indemnities
+  - Term and Termination
+  - Dispute Resolution
+  - Governing Law
+- Where multiple agreements cover the same concept, align:
+  - The definition used
+  - The structure and core terms
+  - Key thresholds (e.g., caps, survival periods), unless there is a clear reason to diverge.
+
+## Definitions
+
+- Each agreement must have a Definitions/Interpretation section.
+- If the same concept (e.g., “Affiliate”, “Confidential Information”, “Control”, “Intellectual Property Rights”, “Business Day”) appears across different agreements, strive to:
+  - Use the same wording or a clearly compatible wording across all agreements.
+- If you need to modify a commonly used definition to better reflect market practice or jurisdiction:
+  - Use the more complete / market-standard wording.
+  - Adjust other agreements that use the same concept to match, unless the agreement type logically requires distinct wording.
+
+## Schedules
+
+- Some agreements have schedules that are meant to hold app-specific details at implementation time.
+- At the template stage:
+  - Keep schedule references intact (e.g., “as set out in Schedule 1”).
+  - Ensure each schedule reference is clear and coherent.
+  - Do NOT fill in app-specific content; keep schedules as structured blank templates/placeholders.
+- Agreements and their schedules should be logically consistent (no broken references, missing schedule titles, or misnumbered schedules).
+
+## Clause Conflicts
+
+- If two clauses (or two templates) present conflicting treatments of the same topic (e.g., IP ownership):
+  - Prefer the more complete and market-standard formulation, based on research and your clause library.
+  - Adjust other agreements to match this improved clause, unless the nature of a particular agreement type reasonably requires divergence (e.g., a pure licensing agreement vs. a development agreement).
+
+## Clause Presence Across Agreements
+
+- Do NOT add every clause to every agreement.
+- Only add or propagate a clause where:
+  - The nature of the agreement and market practice justify its presence.
+  - It materially protects the company without creating unnecessary friction.
+- Use internal Market Clause Models (per agreement type) to decide which clauses are:
+  - Mandatory
+  - Recommended
+  - Optional
+  - Generally unnecessary
+
+## Removed Clauses
+
+- If you determine that a clause in an agreement is unnecessary for that agreement type:
+  - Remove it from the agreement text.
+  - Add it under a “Suggested Optional Clauses” section in the relevant commit message or PR description, so the user can reintroduce it if desired.

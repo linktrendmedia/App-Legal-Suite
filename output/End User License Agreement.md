@@ -36,7 +36,7 @@ Has the meaning given in the Data Processing Addendum (DPA).
 Means the entity identified in Schedule 1 as the licensor.
 
 **(h) "Data Protection Laws"**  
-Means all applicable privacy and data protection laws, including GDPR, UK GDPR, CCPA/CPRA, VCDPA, CPA, CTDPA, UCPA, Montana CDPA, Oregon OCPA, Texas TDPSA, Delaware DPDPA, Nevada NRS 603A, Taiwan PDPA, and any laws listed in Schedule 1.
+Means all applicable privacy and data protection laws, including GDPR, UK GDPR, PECR, ePrivacy Directive, CCPA/CPRA, applicable U.S. state consumer privacy laws with requirements materially similar to the California Consumer Privacy Act (CCPA/CPRA), Nevada NRS 603A, COPPA, Taiwan PDPA, and any laws listed in Schedule 1.
 
 **(i) "Device"**  
 Means any hardware device, including mobile phones, tablets, desktop computers, laptops, and wearables, on which the Application may be installed or accessed.

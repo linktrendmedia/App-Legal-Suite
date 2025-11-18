@@ -1,0 +1,40 @@
+# App Legal Suite – Formatting & Style Rules
+
+## Typography
+
+- Font: Arial
+- Base font size: 11 pt
+
+## Headings
+
+- Use **Title Case** for all headings (e.g., “Intellectual Property Rights”, “Limitation of Liability”).
+- Headings should be bold or clearly distinguishable as headings in the document structure.
+
+## Numbering
+
+- Primary scheme:
+  - Level 1: `1`, `2`, `3`, ...
+  - Level 2: `1.1`, `1.2`, `1.3`, ...
+  - Level 3: `1.1.1`, `1.1.2`, `1.1.3`, ...
+- Prefer numbered or lettered subclauses instead of bullet symbols.
+- Avoid generic bullets like “•” or “-” where possible; use numbering consistent with the above scheme.
+
+## Spacing and Layout
+
+- Single line spacing.
+- Leave a clear line break between major clauses/sections when appropriate for readability.
+- No requirement for automatic Tables of Contents or specific pagination wording (“Page X of Y” is not required).
+- Avoid inserting page headers/footers unless the user explicitly requests them.
+
+## Defined Terms
+
+- Defined terms should be **Capitalized** (not ALL CAPS) in the running text, unless an agreement’s internal style clearly calls for ALL CAPS in a specific context (e.g., “Force Majeure Event” is acceptable; “FORCE MAJEURE EVENT” is not required).
+- Each agreement must contain its own Definitions section, but definitions should be harmonized across agreements where the underlying concept is the same.
+
+## Clean Output
+
+- The final contract text must not contain:
+  - Drafting notes
+  - Bracketed explanatory comments (e.g., “[Note: consider adding X]”)
+  - Internal commentary
+- Only use square brackets where they are part of a template placeholder (e.g., “[● Insert Date]”, “[Supplier]”, “[Customer]”).

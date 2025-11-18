@@ -255,7 +255,7 @@ For purposes of this SLA, "Business Day" means any day other than Saturday, Sund
 
 [INSERT JURISDICTION]
 
-**Recommended:** State of Nevada, United States (or State of Wyoming, United States)
+**Recommended:** State of Nevada, United States
 
 ---
 

@@ -24,18 +24,14 @@ Means all applicable data protection and privacy laws, including but not limited
 
 - **(i)** EU GDPR (Regulation (EU) 2016/679);
 - **(ii)** UK GDPR and UK Data Protection Act 2018;
-- **(iii)** California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA);
-- **(iv)** Virginia Consumer Data Protection Act (VCDPA);
-- **(v)** Colorado Privacy Act (CPA);
-- **(vi)** Connecticut Data Privacy Act (CTDPA);
-- **(vii)** Utah Consumer Privacy Act (UCPA);
-- **(viii)** Montana Consumer Data Privacy Act (MCDPA);
-- **(ix)** Oregon Consumer Privacy Act (OCPA);
-- **(x)** Texas Data Privacy and Security Act (TDPSA);
-- **(xi)** Delaware Personal Data Privacy Act (DPDPA);
-- **(xii)** Nevada Revised Statutes Chapter 603A (NRS 603A);
-- **(xiii)** Taiwan Personal Data Protection Act (PDPA);
-- **(xiv)** any other applicable privacy laws specified in Schedule 1.
+- **(iii)** UK Privacy and Electronic Communications Regulations (PECR);
+- **(iv)** EU ePrivacy Directive;
+- **(v)** California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA);
+- **(vi)** Applicable U.S. state consumer privacy laws with requirements materially similar to the California Consumer Privacy Act (CCPA/CPRA);
+- **(vii)** Nevada Revised Statutes Chapter 603A (NRS 603A);
+- **(viii)** Children's Online Privacy Protection Act (COPPA);
+- **(ix)** Taiwan Personal Data Protection Act (PDPA);
+- **(x)** any other applicable privacy laws specified in Schedule 1.
 
 **(c) "Automated Decision-Making"**  
 Has the meaning given in the Data Processing Addendum (DPA) and includes any decision based solely on automated processing, including profiling, which produces legal effects or similarly significantly affects the Data Subject.

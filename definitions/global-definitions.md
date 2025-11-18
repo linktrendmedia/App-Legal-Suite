@@ -42,6 +42,18 @@ Means the application programming interfaces provided by the Company to enable p
 
 Includes contract law, data protection law, export regulations, and other relevant legislation specified in the applicable agreement or schedule.
 
+**Governing Law/Jurisdiction:** Nevada, United States (Wyoming removed as of Phase A harmonization)
+
+**Primary Data Protection Frameworks:**
+- EU GDPR
+- UK GDPR and PECR
+- EU ePrivacy Directive
+- CCPA/CPRA (California)
+- Applicable U.S. state consumer privacy laws with requirements materially similar to CCPA/CPRA
+- Nevada NRS 603A
+- COPPA (Children's Online Privacy Protection Act)
+- Taiwan PDPA
+
 **Used in:** All agreements
 
 ---
@@ -284,9 +296,11 @@ Means Personal Data resulting from specific technical processing relating to the
 
 ### Children's Personal Data
 
-Means Personal Data relating to individuals under the age of thirteen (13) in the United States or under the age of sixteen (16) in the European Economic Area and United Kingdom.
+Means Personal Data relating to individuals under the age of thirteen (13) in the United States or under the age of sixteen (16) in the European Economic Area and United Kingdom, or below the applicable age of digital consent in their jurisdiction.
 
-**Used in:** DPA
+**Global age threshold:** 13 years (with EU/EEA/UK exception of 16 years)
+
+**Used in:** DPA, all Privacy Policies, Cookie Policies, B2C ToS, Website Terms, EULA, AUP
 
 ---
 

@@ -41,7 +41,7 @@ This Agreement is effective as of:
 This Agreement is governed by the laws of:  
 [INSERT GOVERNING LAW]
 
-**Recommended:** State of Nevada, United States (or State of Wyoming, United States)
+**Recommended:** State of Nevada, United States
 
 **Must align with MSA Schedule 1, Section 2.1, EULA Schedule 1, Section 3.1, and B2C ToS Schedule 1, Section 3.1.**
 
@@ -50,7 +50,7 @@ This Agreement is governed by the laws of:
 Disputes shall be resolved exclusively in the courts of:  
 [INSERT JURISDICTION]
 
-**Recommended:** Clark County, Nevada (or Laramie County, Wyoming)
+**Recommended:** Clark County, Nevada
 
 **Must align with MSA Schedule 1, Section 2.2, EULA Schedule 1, Section 3.2, and B2C ToS Schedule 1, Section 3.2.**
 
@@ -129,18 +129,14 @@ This Agreement is designed to comply with the following Data Protection Laws:
 
 **(a)** EU GDPR (Regulation (EU) 2016/679)  
 **(b)** UK GDPR and UK Data Protection Act 2018  
-**(c)** CCPA/CPRA (California)  
-**(d)** VCDPA (Virginia)  
-**(e)** CPA (Colorado)  
-**(f)** CTDPA (Connecticut)  
-**(g)** UCPA (Utah)  
-**(h)** Montana CDPA  
-**(i)** Oregon OCPA  
-**(j)** Texas TDPSA  
-**(k)** Delaware DPDPA  
-**(l)** Nevada NRS 603A  
-**(m)** Taiwan PDPA  
-**(n)** [INSERT ANY ADDITIONAL LAWS]
+**(c)** UK Privacy and Electronic Communications Regulations (PECR)  
+**(d)** EU ePrivacy Directive  
+**(e)** CCPA/CPRA (California)  
+**(f)** Applicable U.S. state consumer privacy laws with requirements materially similar to the California Consumer Privacy Act (CCPA/CPRA)  
+**(g)** Nevada NRS 603A  
+**(h)** Children's Online Privacy Protection Act (COPPA)  
+**(i)** Taiwan PDPA  
+**(j)** [INSERT ANY ADDITIONAL LAWS]
 
 **Must align with MSA Section 12.1, DPA Section 1.1(a), EULA Section 1.1(h), and B2C ToS Schedule 1, Section 15.1.**
 
