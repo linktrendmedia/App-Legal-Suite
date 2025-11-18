@@ -234,6 +234,38 @@ Means the support and maintenance services described in the SLA.
 
 ---
 
+### Recovery Point Objective (RPO)
+
+Means the maximum acceptable period of data loss measured in time.
+
+**Used in:** SLA
+
+---
+
+### Recovery Time Objective (RTO)
+
+Means the maximum acceptable duration to restore Services after an Incident.
+
+**Used in:** SLA
+
+---
+
+### Root Cause Analysis (RCA)
+
+Means a detailed postmortem report identifying the cause of an Incident and remediation steps.
+
+**Used in:** SLA
+
+---
+
+### Status Page
+
+Means the publicly accessible webpage displaying real-time Service availability and Incident status.
+
+**Used in:** SLA
+
+---
+
 ## INTERPRETATION RULES
 
 The following interpretation rules apply across all agreements:
